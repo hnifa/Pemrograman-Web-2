@@ -71,8 +71,7 @@ switch ($predikat) {
     case "A": 
         echo "<br>Predikat : Sangat Memuaskan";
         break;
-    default: 
+    default:
         echo "<br>Predikat : Tidak ada";
-        break;
 }
 ?>
